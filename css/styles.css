@@ -8,6 +8,8 @@
 	
 }
 
+/*generales*/
+
 :root{
 --color-principal: #F48473;
 --color-secundario:#725AC1;
@@ -31,7 +33,6 @@ top: 0px;
 
 nav{
 height: auto;
-/* border-bottom: 2px solid coral; */
 display: flex;
 justify-content: space-around;
 height: 100%;
@@ -213,6 +214,8 @@ form textarea{
 form textarea::placeholder{
 	color: rgba(128, 128, 128, 0.4);
 }
+
+/*segunda opcion del boton enviar*/
 
 /* #enviar{
 	background-color: coral;
@@ -428,6 +431,8 @@ margin: 1em;
 .wplogo{
 margin: 1em;
 }
+
+/*grid index*/
 
 .grid{
 	display: grid;
